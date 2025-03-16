@@ -14,7 +14,7 @@
 
 ## 使用说明
 
-1. 下载工具后解压 - 下载地址: [Github](https://github.com/biuuu/star-rail-warp-export/releases/latest/download/StarRailWarpExport.zip) / [蓝奏云](https://wwvt.lanzoum.com/b022mikwh) 密码:f1iy
+1. 下载工具后解压 - 下载地址: [Github](/) / [蓝奏云](/) 密码:/
 2. 打开游戏的跃迁详情页面
 
    ![详情页面](/docs/wish-history.png)
